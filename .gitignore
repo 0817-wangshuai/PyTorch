@@ -1,2 +1,3 @@
 .DS_Store
-eat_pytorch_in_20_days/data/*
+eat_pytorch_in_20_days/data/cifar2
+eat_pytorch_in_20_days/data/imdb
